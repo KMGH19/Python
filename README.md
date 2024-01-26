@@ -1,4 +1,2 @@
 # Python 
-<br> This repo will be synced
-<br> testing
-<br> update again
+<br> Notebooks are being modified and will be uploaded in coming days 
